@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on new projects, preferably involving the improvement of experiences related to travel, education, healthcare, banking...
 - 📫 How to reach me: shandy.roque@gmail.com
 - :stars: Checkout my progress:  
-- [https://www.linkedin.com/in/shandyroque/](LinkedIn)
-- [https://www.hackerrank.com/shandy_roque](Hacker Rank)
-- [https://www.codecademy.com/profiles/ShantiRoseCodes](Codecademy)
-- [https://www.codewars.com/users/ShantiRoseCodes](CodeWars)
+- [LinkedIn](https://www.linkedin.com/in/shandyroque/)
+- [HackerRank](https://www.hackerrank.com/shandy_roque)
+- [Codecademy](https://www.codecademy.com/profiles/ShantiRoseCodes) 
+- [CodeWars](https://www.codewars.com/users/ShantiRoseCodes)
 - 
 
 
